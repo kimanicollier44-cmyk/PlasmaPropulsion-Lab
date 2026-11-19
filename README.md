@@ -1,4 +1,4 @@
-![PlasmaPropulsion-Lab cover](assets/cover.png)
+![PlasmaPropulsion-Lab cover](PlasmaPropulsion-Lab%20cover.png)
 
 # PlasmaPropulsion-Lab 🚀⚡
 
